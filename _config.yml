@@ -83,10 +83,10 @@ author:
   name             : "Hao Zhou"
   avatar           : "profile.png"
   bio              : "Ph.D. candidate in Department of Computing at The Hong Kong Polytechnic University"
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "moonZHH"
   google_plus      :
   keybase          :
   instagram        :
