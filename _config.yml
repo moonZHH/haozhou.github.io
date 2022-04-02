@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Hao Zhou"
   avatar           : "profile.png"
-  bio              : Ph.D. candidate 
-                     Department of Computing 
-                     The Hong Kong Polytechnic University
+  bio              : "Ph.D. Candidate \n Department of Computing \n The Hong Kong Polytechnic University"
   location         : 
   employer         :
   pubmed           : 
