@@ -24,4 +24,4 @@ redirect_from:
 ## Teaching
 
 ## Misc
-- Discovered CVEs: 
+- Discovered Vulnerabilities: 
