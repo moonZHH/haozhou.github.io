@@ -23,12 +23,12 @@ redirect_from:
 - 09/2011 - 06/2015, B.Sc., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
-- **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android** 
+- **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]]() 
   [[tool]]()  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
   Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022
-- **Finding the Missing Piece: Permission Specification Analysis for Android NDK** 
+- **Finding the Missing Piece: Permission Specification Analysis for Android NDK**  
   [[paper]]() 
   [[tool]]()  
   <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
