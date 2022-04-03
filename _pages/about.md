@@ -49,8 +49,6 @@ redirect_from:
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
   Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), September 2020
 
-## Patents
-
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
 - Software Project Management (COMP3235), Teaching Assistant
