@@ -29,4 +29,6 @@ redirect_from:
 ## Teaching Experience
 
 ## Discovered Vulnerabilities
-- Google Android: CVE-2020-27057, CVE-2021-39789, CVE-2021-39702, CVE-2021-39702, CVE-2021-39692
+- Google Android: CVE-2020-27057, CVE-2021-39789, CVE-2021-39702, CVE-2021-39692, CVE-2021-39796
+- Samsung OneUI: 
+- Vivo OriginOS: 
