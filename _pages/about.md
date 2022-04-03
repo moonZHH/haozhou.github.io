@@ -36,8 +36,8 @@ redirect_from:
 - **Happer: Unpacking Android Apps via a Hardware-Assisted Approach**  
   [[paper]]() 
   [[tool]]()  
-  Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
-  Proceedings of 42nd IEEE Symposium on Security and Privacy (SP), 2021
+  Lei Xue^*^, <u>Hao Zhou</u>^*^, Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
+  Proceedings of 42nd IEEE Symposium on Security and Privacy (S&P), 2021
 
 ## Patents
 
