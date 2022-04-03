@@ -27,6 +27,10 @@ redirect_from:
 ## Patents
 
 ## Teaching Experience
+- Object-oriented Programming (COMP2021), Teaching Assistant
+- Software Project Management (COMP3235), Teaching Assistant
+- Social and Collaborative Computing (COMP3121), Teaching Assistant
+- Cyber and Internet Security (COMP5355), Teaching Assistant
 
 ## Discovered Vulnerabilities
 - Google Android: CVE-2020-27057, CVE-2021-39789, CVE-2021-39702, CVE-2021-39692, CVE-2021-39796
