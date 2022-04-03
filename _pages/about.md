@@ -61,6 +61,6 @@ redirect_from:
                   [CVE-2021-39702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39702), 
                   [CVE-2021-39692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39692), 
                   [CVE-2021-39796](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39796)
-- Samsung OneUI: 
+- Samsung OneUI: CVE-2021-\*\*\*\*\*
 - Vivo OriginOS: 
 - Several low-severity vulnerabilities in Google Android, Xiaomi MIUI, and Meizu FlymeOS.
