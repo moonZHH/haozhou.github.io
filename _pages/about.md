@@ -47,7 +47,7 @@ redirect_from:
   [[paper]]() 
   [[tool]]()  
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
-  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), September 2020
+  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2020
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
