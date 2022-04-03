@@ -29,6 +29,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[tool]](https://github.com/moonZHH/IAceFinder)  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
   Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022
+- **Structural Attack against Graph Based Android Malware Detection**  
+  [[paper]](/files/HRAT.pdf) 
+  [[tool]](https://sites.google.com/view/hrat)  
+  Kaifa Zhao, <u>Hao Zhou</u>, Yulin Zhu, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  
+  Proceedings of ACM Conference on Computer and Communications Security (CCS), 2021
 - **Finding the Missing Piece: Permission Specification Analysis for Android NDK**  
   [[paper]](/files/PSGen.pdf) 
   [[tool]](https://github.com/moonZHH/PSGen)  
