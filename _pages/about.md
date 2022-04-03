@@ -27,7 +27,12 @@ redirect_from:
   [[paper]]() 
   [[tool]]()  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
-  Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022  
+  Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022
+- **Finding the Missing Piece: Permission Specification Analysis for Android NDK** 
+  [[paper]]() 
+  [[tool]]()  
+  <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
+  Proceedings of 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021
 
 ## Patents
 
