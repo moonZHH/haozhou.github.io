@@ -64,6 +64,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[tool]](https://github.com/moonZHH/UIObfuscator)  
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
   Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2020
+- **PackerGrind: An Adaptive Unpacking System for Android Apps**  
+  [[paper]](/files/PackerGrind.pdf) 
+  [[tool]](https://github.com/rewhy/adaptiveunpacker)  
+  Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
+  IEEE Transactions on Software Engineering (TSE), 2020
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
