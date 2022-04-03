@@ -24,6 +24,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - 09/2011 - 06/2015, B.S., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
+- **FOAP: Fine-Grained Open-World Android App Fingerprinting**  
+  [[paper]](/files/FOAP.pdf) 
+  [[tool]](https://github.com/jflixjtu/FOAP)  
+  Jianfeng Li, <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma  
+  Proceedings of the 31st USENIX Security Symposium (USENIX Security), 2022
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]](/files/IAceFinder.pdf) 
   [[tool]](https://github.com/moonZHH/IAceFinder)  
