@@ -17,6 +17,11 @@ redirect_from:
 
 ## Biography
 
+## Education
+- 09/2018 - current, Ph.D., Department of Computing, The Hong Kong Polytechnic University
+- 09/2015 - 06/2018, M.Sc., School of Computer Science & Technology, Nanjing University of Posts and Telecommunications
+- 09/2011 - 06/2015, B.Sc., Bell Honors School, Nanjing University of Posts and Telecommunications
+
 ## Publication
 
 ## Patents
