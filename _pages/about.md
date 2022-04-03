@@ -38,6 +38,16 @@ redirect_from:
   [[tool]]()  
   Lei Xue<sup>*</sup>, <u>Hao Zhou</u><sup>*</sup> ( <sup>*</sup> co-first authors), Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
   Proceedings of 42nd IEEE Symposium on Security and Privacy (S&P), 2021
+- **Demystifying Diehard Android Apps**  
+  [[paper]]() 
+  [[tool]]()  
+  <u>Hao Zhou</u>, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang  
+  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2020
+- **UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps**  
+  [[paper]]() 
+  [[tool]]()  
+  <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
+  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), September 2020
 
 ## Patents
 
