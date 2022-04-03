@@ -16,12 +16,12 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). His current research interests include Mobile Security, System Security, and Software Engineering.
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications. His current research interests include Mobile Security, System Security, and Software Engineering.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
-- 09/2015 - 06/2018, M.Sc., Nanjing University of Posts and Telecommunications
-- 09/2011 - 06/2015, B.Sc., Nanjing University of Posts and Telecommunications
+- 09/2015 - 06/2018, M.S., Nanjing University of Posts and Telecommunications
+- 09/2011 - 06/2015, B.S., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
