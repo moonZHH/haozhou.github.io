@@ -26,7 +26,7 @@ redirect_from:
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android** 
   [[paper]]() 
   [[tool]]()  
-  Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
+  <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
   Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022  
 
 ## Patents
