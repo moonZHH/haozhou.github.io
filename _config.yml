@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Zhou"
+title                    : "Welcome to Hao Zhou's Homepage!"
 title_separator          : "-"
 name                     : &name "Hao Zhou"
 description              : &description "Ph.D. candidate in Department of Computing at The Hong Kong Polytechnic University"
