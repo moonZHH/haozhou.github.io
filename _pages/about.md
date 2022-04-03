@@ -16,6 +16,7 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). His current research interests include Mobile Security, System Security, and Software Engineering.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
