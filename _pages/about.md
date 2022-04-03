@@ -14,3 +14,14 @@ redirect_from:
   QT405, Chow Yei Ching Building, PolyU  
   Hung Hom, Kowloon, Hong Kong SAR, China
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
+
+## Biography
+
+## Publication
+
+## Patents
+
+## Teaching
+
+## Misc
+- Discovered CVEs: 
