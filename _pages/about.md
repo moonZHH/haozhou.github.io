@@ -22,7 +22,7 @@ redirect_from:
 - 09/2015 - 06/2018, M.Sc., Nanjing University of Posts and Telecommunications
 - 09/2011 - 06/2015, B.Sc., Nanjing University of Posts and Telecommunications
 
-## Publication
+## Selected Publication ([full](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
 
 ## Patents
 
