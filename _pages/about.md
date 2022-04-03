@@ -44,6 +44,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[tool]](https://github.com/moonZHH/PSGen)  
   <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
   Proceedings of 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021
+- **XDebloat: Towards Automated Feature-Oriented App Debloating**
+  [[paper]](/files/XDebloat.pdf) 
+  [[tool]](https://sites.google.com/view/xdebloat)  
+  Yutian Tang, <u>Hao Zhou</u>, Xiapu Luo, Ting Chen, Haoyu Wang, Zhou Xu, Yan Cai  
+  IEEE Transactions on Software Engineering (TSE), 2021
 - **Happer: Unpacking Android Apps via a Hardware-Assisted Approach**  
   [[paper]](/files/Happer.pdf) 
   [[tool]](https://github.com/rewhy/happer)  
