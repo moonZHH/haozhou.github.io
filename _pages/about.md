@@ -10,4 +10,6 @@ redirect_from:
 
 - Ph.D. Candidate
 - Department of Computing  
-  The Hong Kong Polytechnic University
+  The Hong Kong Polytechnic University  
+  QT405, Chow Yei Ching Building, PolyU,  
+  Hung Hom, Kowloon, Hong Kong SAR, China
