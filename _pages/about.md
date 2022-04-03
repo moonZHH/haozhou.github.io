@@ -24,8 +24,8 @@ redirect_from:
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
 - Uncovering Cross-Context Inconsistent Access Control Enforcement in Android 
-  [[paper]](), 
-  [[tool]]())  
+  [[paper]]() 
+  [[tool]]()  
   Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
   Proceedings of Network and Distributed Systems Security Symposium (NDSS), 2022  
 
