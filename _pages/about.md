@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 - Ph.D. Candidate
+- Department of Computing  
+  The Hong Kong Polytechnic University
