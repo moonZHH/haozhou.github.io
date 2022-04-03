@@ -33,6 +33,11 @@ redirect_from:
   [[tool]]()  
   <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
   Proceedings of 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021
+- **Happer: Unpacking Android Apps via a Hardware-Assisted Approach**  
+  [[paper]]() 
+  [[tool]]()  
+  Lei Xue, <u>Hao Zhou<\u>, Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
+  Proceedings of 42nd IEEE Symposium on Security and Privacy (SP), 2021
 
 ## Patents
 
