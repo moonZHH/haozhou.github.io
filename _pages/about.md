@@ -26,7 +26,7 @@ redirect_from:
 
 ## Patents
 
-## Teaching
+## Teaching Experience
 
-## Misc
-- Discovered Vulnerabilities: 
+## Discovered Vulnerabilities
+- Google Android: CVE-2020-27057, CVE-2021-39789, CVE-2021-39702, CVE-2021-39702, CVE-2021-39692
