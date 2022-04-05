@@ -89,6 +89,6 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
                  CVE-2022-\*\*\*\*\*, 
                  CVE-2022-\*\*\*\*\*, 
                  CVE-2022-\*\*\*\*\*, 
-                 CVE-2022-\*\*\*\*\*, 
+                 CVE-2022-\*\*\*\*\*
 - Vivo OriginOS: CVE-2022-\*\*\*\*\*
 - Several low-severity vulnerabilities in Google Android, Xiaomi MIUI, and Meizu FlymeOS.
