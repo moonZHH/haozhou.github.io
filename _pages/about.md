@@ -85,6 +85,10 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
                   CVE-2021-\*\*\*\*\*, 
                   CVE-2021-\*\*\*\*\*
 - Samsung OneUI: [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
-                 CVE-2022-\*\*\*\*\*
+                 CVE-2022-\*\*\*\*\*, 
+                 CVE-2022-\*\*\*\*\*, 
+                 CVE-2022-\*\*\*\*\*, 
+                 CVE-2022-\*\*\*\*\*, 
+                 CVE-2022-\*\*\*\*\*, 
 - Vivo OriginOS: CVE-2022-\*\*\*\*\*
 - Several low-severity vulnerabilities in Google Android, Xiaomi MIUI, and Meizu FlymeOS.
