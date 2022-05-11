@@ -87,7 +87,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - Cyber and Internet Security (COMP5355), Teaching Assistant
 
 ## Discovered Vulnerabilities
-- Google Android
+- Google Android  
 [CVE-2020-27057](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-27057), 
 [CVE-2021-39789](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39789), 
 [CVE-2021-39702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39702), 
