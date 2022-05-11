@@ -23,16 +23,26 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - 09/2015 - 06/2018, M.S., Nanjing University of Posts and Telecommunications
 - 09/2011 - 06/2015, B.S., Nanjing University of Posts and Telecommunications
 
-## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ&hl=zh-CN))
+## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **FOAP: Fine-Grained Open-World Android App Fingerprinting**  
   [[paper]](/files/FOAP.pdf) 
   [[code]](https://github.com/jflixjtu/FOAP)  
   Jianfeng Li, <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma  
   Proceedings of the 31st USENIX Security Symposium (**USENIX Security**), 2022
+- **NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps**  
+  [[paper]](/files/NCScope.pdf) 
+  [[code]](https://github.com/moonZHH/NCScope)  
+  <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
+  Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]](/files/IAceFinder.pdf) 
   [[code]](https://github.com/moonZHH/IAceFinder)  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
+  Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
+- **Packet-Level Open-World App Fingerprinting on Wireless Traffic**  
+  [[paper]](/files/PacketPrint.pdf) 
+  [[code]](https://github.com/jflixjtu/PacketPrint)  
+  Jianfeng Li, Shuohan Wu, <u>Hao Zhou</u>, Xiapu Luo, Ting Wang, Yangyang Liu, Xiaobo Ma  
   Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Structural Attack against Graph Based Android Malware Detection**  
   [[paper]](/files/HRAT.pdf) 
