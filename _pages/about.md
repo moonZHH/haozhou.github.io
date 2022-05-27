@@ -93,8 +93,8 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [CVE-2021-39702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39702), 
   [CVE-2021-39692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39692), 
   [CVE-2021-39796](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39796),  
-  CVE-2021-\*\*\*\*\*, 
-  CVE-2021-\*\*\*\*\*
+  [CVE-2022-20200](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-20200), 
+  CVE-2022-\*\*\*\*\*
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
   [CVE-2022-27576](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27576), 
