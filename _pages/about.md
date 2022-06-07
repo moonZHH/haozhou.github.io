@@ -98,11 +98,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
   [CVE-2022-27576](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27576), 
-  CVE-2022-\*\*\*\*\*, 
-  CVE-2022-\*\*\*\*\*, 
-  CVE-2022-\*\*\*\*\*,  
-  CVE-2022-\*\*\*\*\*, 
-  CVE-2022-\*\*\*\*\*, 
+  [CVE-2022-30722](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30722), 
+  [CVE-2022-30723](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30723), 
+  [CVE-2022-30724](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30724),  
+  [CVE-2022-30725](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30725), 
+  [CVE-2022-30729](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30729), 
   CVE-2022-\*\*\*\*\*
 - Vivo OriginOS  
   CVE-2022-\*\*\*\*\*
