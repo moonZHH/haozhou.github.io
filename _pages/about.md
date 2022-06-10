@@ -103,6 +103,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [CVE-2022-30724](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30724),  
   [CVE-2022-30725](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30725), 
   [CVE-2022-30729](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30729), 
+  CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*
 - Vivo OriginOS  
   CVE-2022-\*\*\*\*\*
