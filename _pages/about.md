@@ -97,7 +97,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*
 - Huawei/Honor MagicUI  
-  
+
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
   [CVE-2022-27576](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27576), 
@@ -108,9 +108,9 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [CVE-2022-30729](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-30729), 
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*, 
-  CVE-2022-\*\*\*\*\*  
+  CVE-2022-\*\*\*\*\*
 - Vivo OriginOS  
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*, 
-  CVE-2022-\*\*\*\*\* 
+  CVE-2022-\*\*\*\*\*
 - Several low-severity vulnerabilities in Google Android, Xiaomi MIUI, and Meizu FlymeOS.
