@@ -97,7 +97,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*
 - Huawei/Honor MagicUI  
-
+  CVE-2022-\*\*\*\*\*
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
   [CVE-2022-27576](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27576), 
