@@ -34,15 +34,15 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[code]](https://github.com/moonZHH/NCScope)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
   Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
-- **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**
-  [[paper]](/files/LieToMe.pdf) 
+- **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
+  [[paper]](/files/LieToMe.pdf)  
   Guosheng Xu, Siyi Li, <u>Hao Zhou</u>, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, Haoyu Wang  
-  Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
+  Proceedings of the ACM Web Conference (**WWW**), 2022
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]](/files/IAceFinder.pdf) 
   [[code]](https://github.com/moonZHH/IAceFinder)  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
-  Proceedings of the ACM Web Conference (**WWW**), 2022
+  Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Packet-Level Open-World App Fingerprinting on Wireless Traffic**  
   [[paper]](/files/PacketPrint.pdf) 
   [[code]](https://github.com/jflixjtu/PacketPrint)  
