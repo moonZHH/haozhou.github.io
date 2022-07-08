@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications, advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, and Software Engineering.
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications, advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, and Program Analysis.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
@@ -100,7 +100,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [CVE-2022-20200](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-20200), 
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*
-- Huawei/Honor MagicUI  
+- Honor MagicUI  
   CVE-2022-\*\*\*\*\*
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
