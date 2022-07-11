@@ -26,12 +26,12 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **FOAP: Fine-Grained Open-World Android App Fingerprinting**  
   [[paper]](/files/FOAP.pdf) 
-  [[code]](https://github.com/jflixjtu/FOAP)  
+  [[artifacts]](https://github.com/jflixjtu/FOAP)  
   Jianfeng Li, <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma  
   Proceedings of the 31st USENIX Security Symposium (**USENIX Security**), 2022
 - **NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps**  
   [[paper]](/files/NCScope.pdf) 
-  [[code]](https://github.com/moonZHH/NCScope)  
+  [[artifacts]](https://github.com/moonZHH/NCScope)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
   Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
 - **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
@@ -40,47 +40,47 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   Proceedings of the ACM Web Conference (**WWW**), 2022
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]](/files/IAceFinder.pdf) 
-  [[code]](https://github.com/moonZHH/IAceFinder)  
+  [[artifacts]](https://github.com/moonZHH/IAceFinder)  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
   Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Packet-Level Open-World App Fingerprinting on Wireless Traffic**  
   [[paper]](/files/PacketPrint.pdf) 
-  [[code]](https://github.com/jflixjtu/PacketPrint)  
+  [[artifacts]](https://github.com/jflixjtu/PacketPrint)  
   Jianfeng Li, Shuohan Wu, <u>Hao Zhou</u>, Xiapu Luo, Ting Wang, Yangyang Liu, Xiaobo Ma  
   Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Structural Attack against Graph Based Android Malware Detection**  
   [[paper]](/files/HRAT.pdf) 
-  [[code]](https://sites.google.com/view/hrat)  
+  [[artifacts]](https://sites.google.com/view/hrat)  
   Kaifa Zhao, <u>Hao Zhou</u>, Yulin Zhu, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  
   Proceedings of ACM Conference on Computer and Communications Security (**CCS**), 2021
 - **Finding the Missing Piece: Permission Specification Analysis for Android NDK**  
   [[paper]](/files/PSGen.pdf) 
-  [[code]](https://github.com/moonZHH/PSGen)  
+  [[artifacts]](https://github.com/moonZHH/PSGen)  
   <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
   Proceedings of 36th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2021
 - **XDebloat: Towards Automated Feature-Oriented App Debloating**  
   [[paper]](/files/XDebloat.pdf) 
-  [[code]](https://sites.google.com/view/xdebloat)  
+  [[artifacts]](https://sites.google.com/view/xdebloat)  
   Yutian Tang, <u>Hao Zhou</u>, Xiapu Luo, Ting Chen, Haoyu Wang, Zhou Xu, Yan Cai  
   IEEE Transactions on Software Engineering (**TSE**), 2021
 - **Happer: Unpacking Android Apps via a Hardware-Assisted Approach**  
   [[paper]](/files/Happer.pdf) 
-  [[code]](https://github.com/rewhy/happer)  
+  [[artifacts]](https://github.com/rewhy/happer)  
   Lei Xue<sup>*</sup>, <u>Hao Zhou</u><sup>*</sup> ( <sup>*</sup> co-first authors), Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
   Proceedings of 42nd IEEE Symposium on Security and Privacy (**S&P**), 2021
 - **Demystifying Diehard Android Apps**  
   [[paper]](/files/DiehardDetector.pdf) 
-  [[code]](https://github.com/moonZHH/DiehardDetector)  
+  [[artifacts]](https://github.com/moonZHH/DiehardDetector)  
   <u>Hao Zhou</u>, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang  
   Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
 - **UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps**  
   [[paper]](/files/UIObfuscator.pdf) 
-  [[code]](https://github.com/moonZHH/UIObfuscator)  
+  [[artifacts]](https://github.com/moonZHH/UIObfuscator)  
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
   Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
 - **PackerGrind: An Adaptive Unpacking System for Android Apps**  
   [[paper]](/files/PackerGrind.pdf) 
-  [[code]](https://github.com/rewhy/adaptiveunpacker)  
+  [[artifacts]](https://github.com/rewhy/adaptiveunpacker)  
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
 
