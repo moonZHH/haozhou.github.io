@@ -31,7 +31,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   Proceedings of the 31st USENIX Security Symposium (**USENIX Security**), 2022
 - **NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps**  
   [[paper]](/files/NCScope.pdf) 
-  [[artifacts]](https://github.com/moonZHH/NCScope)  
+  [[artifacts]](https://doi.org/10.5281/zenodo.6534524)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
   Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
 - **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
