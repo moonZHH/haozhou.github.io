@@ -32,7 +32,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - **NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps**  
   [[paper]](/files/NCScope.pdf) 
   [[artifacts]](https://doi.org/10.5281/zenodo.6534524) 
-  [[ACM SIGSOFT Distinguished Paper]](https://conf.researchr.org/home/issta-2022)  
+  [[ACM SIGSOFT Distinguished Paper Award]](https://conf.researchr.org/home/issta-2022)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
   Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
 - **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
@@ -86,6 +86,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   IEEE Transactions on Software Engineering (**TSE**), 2020
 
 ## Awards
+- **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
