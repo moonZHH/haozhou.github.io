@@ -84,6 +84,8 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
 
+## Awards
+
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
 - Software Project Management (COMP3235), Teaching Assistant
