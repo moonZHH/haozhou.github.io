@@ -128,4 +128,4 @@ Hao is currently a Ph.D. candidate in Department of Computing (COMP) at the Hong
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*, 
   CVE-2022-\*\*\*\*\*
-- Several low-severity vulnerabilities in Google Android, Xiaomi MIUI, and Meizu FlymeOS.
+- Several low-severity vulnerabilities in Google Android, Honor MagicUI, Samsung OneUI, Xiaomi MIUI, and Meizu FlymeOS.
