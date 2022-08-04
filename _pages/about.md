@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 - Ph.D. Candidate
-- Department of Computing  
+- Department of Computing (COMP)  
   The Hong Kong Polytechnic University  
   QT405, Chow Yei Ching Building, PolyU  
   Hung Hom, Kowloon, Hong Kong SAR, China
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing (COMP) at the Hong Kong Polytechnic University (PolyU), supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, and Program Analysis.
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, and Program Analysis.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
