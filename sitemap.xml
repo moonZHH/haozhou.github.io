@@ -9,52 +9,42 @@
 
 <url>
   <loc>https://moonzhh.github.io/</loc>
-  <lastmod>2022-04-03T17:02:08+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://moonzhh.github.io/files/FOAP.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <loc>https://moonzhh.github.io/files/NCScope.pdf</loc>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://moonzhh.github.io/files/NCScope-Award.pdf</loc>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://moonzhh.github.io/files/IAceFinder.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://moonzhh.github.io/files/HRAT.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://moonzhh.github.io/files/PSGen.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://moonzhh.github.io/files/XDebloat.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://moonzhh.github.io/files/Happer.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://moonzhh.github.io/files/DiehardDetector.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://moonzhh.github.io/files/UIObfuscator.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://moonzhh.github.io/files/PackerGrind.pdf</loc>
-  <lastmod>2022-04-03T17:01:59+00:00</lastmod>
+  <lastmod>2022-08-04T06:18:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
