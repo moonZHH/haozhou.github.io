@@ -94,7 +94,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
 
 ## Services
-- Artifacts Evaluation Member
+- Artifacts Evaluation Member  
   2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
 
 ## Teaching Experience
