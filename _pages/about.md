@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, and Program Analysis.
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.S. in Communication Engineering and M.S. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
@@ -92,6 +92,10 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 
 ## Awards
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
+
+## Services
+- Artifacts Evaluation Member
+  2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
