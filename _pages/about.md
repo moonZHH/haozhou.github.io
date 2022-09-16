@@ -28,7 +28,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](/files/IntentChecker.pdf) 
   [[artifacts]](https://github.com/moonZHH/IntentChecker)  
   <u>Hao Zhou</u>, Xiapu Luo, Haoyu Wang, Haipeng Cai  
-  Proceedings of ACM Conference on Computer and Communications Security (**CCS**), 2022
+  Proceedings of the 29th ACM Conference on Computer and Communications Security (**CCS**), 2022
 - **FOAP: Fine-Grained Open-World Android App Fingerprinting**  
   [[paper]](https://www.usenix.org/conference/usenixsecurity22/presentation/li-jianfeng) 
   [[artifacts]](https://github.com/jflixjtu/FOAP)  
@@ -58,7 +58,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](https://doi.org/10.1145/3460120.3485387) 
   [[artifacts]](https://sites.google.com/view/hrat)  
   Kaifa Zhao, <u>Hao Zhou</u>, Yulin Zhu, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  
-  Proceedings of ACM Conference on Computer and Communications Security (**CCS**), 2021
+  Proceedings of the 28th ACM Conference on Computer and Communications Security (**CCS**), 2021
 - **Finding the Missing Piece: Permission Specification Analysis for Android NDK**  
   [[paper]](/files/PSGen.pdf) 
   [[artifacts]](https://github.com/moonZHH/PSGen)  
