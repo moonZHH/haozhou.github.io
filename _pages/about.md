@@ -39,7 +39,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[artifacts]](https://doi.org/10.5281/zenodo.6534524) 
   [[ACM SIGSOFT Distinguished Paper Award]](/files/NCScope-Award.pdf)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
-  Proceedings of International Symposium on Software Testing and Analysis (**ISSTA**), 2022
+  Proceedings of the 31st International Symposium on Software Testing and Analysis (**ISSTA**), 2022
 - **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
   [[paper]](https://doi.org/10.1145/3485447.3512151)  
   Guosheng Xu, Siyi Li, <u>Hao Zhou</u>, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, Haoyu Wang  
