@@ -97,6 +97,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](https://doi.org/10.1109/TSE.2018.2886875)  
   Le Yu, Xiapu Luo, Jiachi Chen, <u>Hao Zhou</u>, Tao Zhang, Henry Chang, Hareton K. N. Leung  
   IEEE Transactions on Software Engineering (**TSE**), 2018
+- **NDroid: Toward Tracking Information Flows Across Multiple Android Contexts**  
+  [[paper]](https://doi.org/10.1109/TIFS.2018.2866347)  
+  [[artifacts]](https://github.com/rewhy/NDroid)
+  Lei Xue, Chenxiong Qian, <u>Hao Zhou</u>, Xiapu Luo, Yajin Zhou, Yuru Shao, Alvin T.S. Chan  
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
 
 ## Awards
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
