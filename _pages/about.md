@@ -89,6 +89,10 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[artifacts]](https://github.com/rewhy/adaptiveunpacker)  
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
+- **Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code**  
+  [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637)  
+  Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
+  IEEE Conference on Computer Communications (**INFOCOM**), 2019
 
 ## Awards
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
