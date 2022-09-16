@@ -90,12 +90,12 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
 - **DINA: Detecting Hidden Android Inter-App Communication in Dynamic Loaded Code**  
-  [[paper]](https://doi.org/10.1109/TIFS.2020.2976556)  
+  [[paper]](https://doi.org/10.1109/TIFS.2020.2976556) 
   [[artifacts]](https://github.com/Mohannadcse/DINA)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2020
 - **Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code**  
-  [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637)  
+  [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637) 
   [[artifacts]](https://github.com/Mohannadcse/DINA)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
   Proceedings of IEEE Conference on Computer Communications (**INFOCOM**), 2019
@@ -104,7 +104,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   Le Yu, Xiapu Luo, Jiachi Chen, <u>Hao Zhou</u>, Tao Zhang, Henry Chang, Hareton K. N. Leung  
   IEEE Transactions on Software Engineering (**TSE**), 2018
 - **NDroid: Toward Tracking Information Flows Across Multiple Android Contexts**  
-  [[paper]](https://doi.org/10.1109/TIFS.2018.2866347)  
+  [[paper]](https://doi.org/10.1109/TIFS.2018.2866347) 
   [[artifacts]](https://github.com/rewhy/NDroid)  
   Lei Xue, Chenxiong Qian, <u>Hao Zhou</u>, Xiapu Luo, Yajin Zhou, Yuru Shao, Alvin T.S. Chan  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
