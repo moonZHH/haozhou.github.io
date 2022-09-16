@@ -89,8 +89,14 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[artifacts]](https://github.com/rewhy/adaptiveunpacker)  
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
+- **DINA: Detecting Hidden Android Inter-App Communication in Dynamic Loaded Code**  
+  [[paper]](https://doi.org/10.1109/TIFS.2020.2976556)  
+  [[artifacts]](https://github.com/Mohannadcse/DINA)  
+  Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2020
 - **Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code**  
   [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637)  
+  [[artifacts]](https://github.com/Mohannadcse/DINA)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
   Proceedings of IEEE Conference on Computer Communications (**INFOCOM**), 2019
 - **PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies**  
