@@ -95,6 +95,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 
 ## Services
 - **Artifacts Evaluation Committee Member**  
+  2022: [ACSAC](https://www.acsac.org/2022)  
   2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
 
 ## Teaching Experience
