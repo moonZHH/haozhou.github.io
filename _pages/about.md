@@ -48,12 +48,12 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](/files/IAceFinder.pdf) 
   [[artifacts]](https://github.com/moonZHH/IAceFinder)  
   <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang  
-  Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
+  Proceedings of the 29th Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Packet-Level Open-World App Fingerprinting on Wireless Traffic**  
   [[paper]](https://dx.doi.org/10.14722/ndss.2022.24210) 
   [[artifacts]](https://github.com/jflixjtu/PacketPrint)  
   Jianfeng Li, Shuohan Wu, <u>Hao Zhou</u>, Xiapu Luo, Ting Wang, Yangyang Liu, Xiaobo Ma  
-  Proceedings of Network and Distributed Systems Security Symposium (**NDSS**), 2022
+  Proceedings of the 29th Network and Distributed Systems Security Symposium (**NDSS**), 2022
 - **Structural Attack against Graph Based Android Malware Detection**  
   [[paper]](https://doi.org/10.1145/3460120.3485387) 
   [[artifacts]](https://sites.google.com/view/hrat)  
@@ -63,7 +63,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](/files/PSGen.pdf) 
   [[artifacts]](https://github.com/moonZHH/PSGen)  
   <u>Hao Zhou</u>, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang  
-  Proceedings of 36th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2021
+  Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2021
 - **XDebloat: Towards Automated Feature-Oriented App Debloating**  
   [[paper]](https://doi.org/10.1109/TSE.2021.3120213) 
   [[artifacts]](https://sites.google.com/view/xdebloat)  
@@ -73,17 +73,17 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](/files/Happer.pdf) 
   [[artifacts]](https://github.com/rewhy/happer)  
   Lei Xue<sup>*</sup>, <u>Hao Zhou</u><sup>*</sup> ( <sup>*</sup> co-first authors), Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
-  Proceedings of 42nd IEEE Symposium on Security and Privacy (**S&P**), 2021
+  Proceedings of the 42nd IEEE Symposium on Security and Privacy (**S&P**), 2021
 - **Demystifying Diehard Android Apps**  
   [[paper]](/files/DiehardDetector.pdf) 
   [[artifacts]](https://github.com/moonZHH/DiehardDetector)  
   <u>Hao Zhou</u>, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang  
-  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
+  Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
 - **UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps**  
   [[paper]](/files/UIObfuscator.pdf) 
   [[artifacts]](https://github.com/moonZHH/UIObfuscator)  
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
-  Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
+  Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
 - **PackerGrind: An Adaptive Unpacking System for Android Apps**  
   [[paper]](https://doi.org/10.1109/TSE.2020.2996433) 
   [[artifacts]](https://github.com/rewhy/adaptiveunpacker)  
@@ -92,7 +92,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - **Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code**  
   [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
-  IEEE Conference on Computer Communications (**INFOCOM**), 2019
+  Proceedings of IEEE Conference on Computer Communications (**INFOCOM**), 2019
 
 ## Awards
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
