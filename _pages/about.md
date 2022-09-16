@@ -93,6 +93,10 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
   Proceedings of IEEE Conference on Computer Communications (**INFOCOM**), 2019
+- **PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies**  
+  [[paper]](https://doi.org/10.1109/TSE.2018.2886875)  
+  Le Yu, Xiapu Luo, Jiachi Chen, <u>Hao Zhou</u>, Tao Zhang, Henry Chang, Hareton K. N. Leung  
+  IEEE Transactions on Software Engineering (**TSE**), 2018
 
 ## Awards
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
