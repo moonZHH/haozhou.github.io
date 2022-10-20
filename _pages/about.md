@@ -24,7 +24,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
-- **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**
+- **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**  
   [[paper]]() 
   [[artifacts]]()  
   Cen Zhang, Yuekang Li, <u>Hao Zhou</u>, Xiaohan Zhang, Yaowen Zheng, Xian Zhan, Xiaofei Xie, Xiapu Luo, Xinghua Li, Yang Liu, Sheikh Mahbub Habib  
