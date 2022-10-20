@@ -19,7 +19,7 @@ redirect_from:
 Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis.
 
 ## Education
-- 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
+- 09/2018 - 10/2022, Ph.D., The Hong Kong Polytechnic University
 - 09/2015 - 06/2018, M.E., Nanjing University of Posts and Telecommunications
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
