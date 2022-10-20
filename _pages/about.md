@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Ph.D. Candidate
+- Ph.D.
 - Department of Computing (COMP)  
   The Hong Kong Polytechnic University  
   QT405, Chow Yei Ching Building, PolyU  
@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis.
+Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis.
 
 ## Education
 - 09/2018 - current, Ph.D., The Hong Kong Polytechnic University
@@ -24,6 +24,11 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**
+  [[paper]]() 
+  [[artifacts]]()  
+  Cen Zhang, Yuekang Li, <u>Hao Zhou</u>, Xiaohan Zhang, Yaowen Zheng, Xian Zhan, Xiaofei Xie, Xiapu Luo, Xinghua Li, Yang Liu, Sheikh Mahbub Habib  
+  32nd USENIX Security Symposium (**USENIX Security**), 2023
 - **Uncovering Intent based Leak of Sensitive Data in Android Framework**  
   [[paper]](/files/LeakDetector.pdf) 
   [[artifacts]](https://github.com/moonZHH/LeakDetector)  
