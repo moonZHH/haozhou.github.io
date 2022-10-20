@@ -26,7 +26,7 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **Uncovering Intent based Leak of Sensitive Data in Android Framework**  
   [[paper]](/files/LeakDetector.pdf) 
-  [[artifacts]](https://github.com/moonZHH/IntentChecker)  
+  [[artifacts]](https://github.com/moonZHH/LeakDetector)  
   <u>Hao Zhou</u>, Xiapu Luo, Haoyu Wang, Haipeng Cai  
   29th ACM Conference on Computer and Communications Security (**CCS**), 2022
 - **FOAP: Fine-Grained Open-World Android App Fingerprinting**  
