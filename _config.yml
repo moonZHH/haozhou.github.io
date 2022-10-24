@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hao Zhou"
-  avatar           : "photo.jpg"
+  avatar           : "profile.jpg" # "photo.jpg"
   bio              : "Ph.D., COMP, PolyU"
   location         : 
   employer         :
