@@ -78,7 +78,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   [[paper]](/files/Happer.pdf) 
   [[artifacts]](https://github.com/rewhy/happer) 
   [[datasets]](https://github.com/moonZHH/Happer-Dataset)  
-  Lei Xue<sup>*</sup>, <u>Hao Zhou</u><sup>*</sup> ( <sup>*</sup> co-first authors), Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
+  Lei Xue<sup>*</sup>, <u>Hao Zhou</u><sup>*</sup> (co-first authors), Xiapu Luo, Yajin Zhou, Yang Shi, Guofei Gu, Fengwei Zhang, Man Ho Au  
   42nd IEEE Symposium on Security and Privacy (**S&P**), 2021
 - **Demystifying Diehard Android Apps**  
   [[paper]](/files/DiehardDetector.pdf) 
