@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to Hao's homepage!"
 title_separator          : "-"
 name                     : &name "Hao Zhou"
-description              : &description "Ph.D. in Department of Computing at The Hong Kong Polytechnic University"
+description              : &description "Postdoctoral Fellow in Department of Computing at The Hong Kong Polytechnic University"
 url                      : https://moonZHH.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moonZHH.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hao Zhou"
   avatar           : "profile.png" # "photo.jpg"
-  bio              : "Ph.D., COMP, PolyU"
+  bio              : "Postdoctoral Fellow, COMP, PolyU"
   location         : 
   employer         :
   pubmed           : 
