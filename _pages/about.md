@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Ph.D.
+- Postdoctoral Fellow
 - Department of Computing (COMP)  
   The Hong Kong Polytechnic University  
   QT405, Chow Yei Ching Building, PolyU  
