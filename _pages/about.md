@@ -20,7 +20,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 
 ## Education
 - 09/2018 - 10/2022, Ph.D., The Hong Kong Polytechnic University  
-  thesis(https://theses.lib.polyu.edu.hk/handle/200/12119)
+  [thesis](https://theses.lib.polyu.edu.hk/handle/200/12119)
 - 09/2015 - 06/2018, M.E., Nanjing University of Posts and Telecommunications
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
