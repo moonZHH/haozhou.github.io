@@ -125,7 +125,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   2022: [ACSAC](https://www.acsac.org/2022)  
   2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
 - **Journal Reviewer**  
-  Artificial Intelligence Review (AIRE)
+  [Artificial Intelligence Review (AIRE)](https://www.springer.com/journal/10462)
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
