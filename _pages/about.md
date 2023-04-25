@@ -122,7 +122,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 
 ## Services
 - **Artifacts Evaluation Committee Member**  
-  2022: [ACSAC](https://www.acsac.org/2022)  
+  2022: [ACSAC](https://www.acsac.org/2022/committees/artifact/)  
   2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
 - **Journal Reviewer**  
   [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq)  
