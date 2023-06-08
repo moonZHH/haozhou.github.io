@@ -29,7 +29,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - **CydiOS: A Model-based Testing Framework for iOS Apps**  
   [[paper]](*) 
   [[artifacts]](*)  
-  Shuohan Wu, Jianfeng Li, <u>Hao Zhou<u>, Yongsheng Fang, Kaifa Zhao, Haoyu Wang, Chenxiong Qian, Xiapu Luo  
+  Shuohan Wu, Jianfeng Li, <u>Hao Zhou</u>, Yongsheng Fang, Kaifa Zhao, Haoyu Wang, Chenxiong Qian, Xiapu Luo  
   32nd International Symposium on Software Testing and Analysis (**ISSTA**), 2023
 - **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**  
   [[paper]](*) 
@@ -126,6 +126,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
 
 ## Services
+- **Technical Program Committee Member**  
 - **Artifacts Evaluation Committee Member**  
   2022: [ACSAC](https://www.acsac.org/2022/committees/artifact/)  
   2020: [ACSAC](https://www.acsac.org/2020/committees/artifact/)
