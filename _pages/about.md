@@ -29,7 +29,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - **CydiOS: A Model-based Testing Framework for iOS Apps**  
   [[paper]](*) 
   [[artifacts]](*)  
-  Shuohan Wu, Jianfeng Li, Hao Zhou, Yongsheng Fang, Kaifa ZHAO, Haoyu Wang, Chenxiong Qian, Xiapu Luo  
+  Shuohan Wu, Jianfeng Li, Hao Zhou, Yongsheng Fang, Kaifa Zhao, Haoyu Wang, Chenxiong Qian, Xiapu Luo  
   32nd International Symposium on Software Testing and Analysis (**ISSTA**), 2023
 - **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**  
   [[paper]](*) 
