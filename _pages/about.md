@@ -33,7 +33,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   32nd International Symposium on Software Testing and Analysis (**ISSTA**), 2023
 - **Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation**  
   [[paper]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen) 
-  [[artifacts]](*)  
+  [[artifacts]](https://sites.google.com/view/rubick-lore/home)  
   Cen Zhang, Yuekang Li, <u>Hao Zhou</u>, Xiaohan Zhang, Yaowen Zheng, Xian Zhan, Xiaofei Xie, Xiapu Luo, Xinghua Li, Yang Liu, Sheikh Mahbub Habib  
   32nd USENIX Security Symposium (**USENIX Security**), 2023
 - **Uncovering Intent based Leak of Sensitive Data in Android Framework**  
