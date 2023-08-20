@@ -18,16 +18,16 @@ redirect_from:
 ## Biography
 Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware Analysis, Program Analysis, and Blockchain with papers published in top-tier venues (e.g., CCS, NDSS, S&P, USENIX SEC, ASE, ISSTA, INFOCOM, WWW, TIFS, TSE). His ISSTA'22 paper received the ACM SIGSOFT Distinguished Paper Award. His research uncovered many severe vulnerabilities in mobile systems with 20 CVEs assigned.
 
+## Experience
+- 08/2023 - current, Research Assistant Professor, The Hong Kong Polytechnic University  
+- 11/2022 - 08/2023, Postdoctoral Fellow, The Hong Kong Polytechnic University
+
 ## Education
 - 09/2018 - 10/2022, Ph.D., The Hong Kong Polytechnic University  
   [[Thesis]](https://theses.lib.polyu.edu.hk/handle/200/12119) Defending against Stealthy Mobile Unwanted Apps
 - 09/2015 - 06/2018, M.E., Nanjing University of Posts and Telecommunications  
   [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkWfZcByc-RON98J6vxPv10aBxk12ixY2SMN-sbY8QCM9mcGDp8uOvXkJv_EhuQuOL&uniplatform=NZKPT&src=copy) Android Repackaged App Detection
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
-
-## Experience
-- 08/2023 - current, Research Assistant Professor, The Hong Kong Polytechnic University  
-- 11/2022 - 08/2023, Postdoctoral Fellow, The Hong Kong Polytechnic University
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **CydiOS: A Model-based Testing Framework for iOS Apps**  
