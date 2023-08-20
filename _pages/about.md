@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
 
 ## Biography
-Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis.
+Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware analysis, and Program Analysis with papers published in top-tier venues (e.g., CCS, NDSS, S&P, USENIX SEC, ASE, ISSTA, INFOCOM, WWW, TIFS, TSE). His ISSTA'22 paper received the ACM SIGSOFT Distinguished Paper Award. His research uncovered many severe vulnerabilities in mobile operating systems with 20 CVEs assigned.
 
 ## Education
 - 09/2018 - 10/2022, Ph.D., The Hong Kong Polytechnic University  
@@ -35,7 +35,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   [[paper]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen) 
   [[artifacts]](https://sites.google.com/view/rubick-lore/home)  
   Cen Zhang, Yuekang Li, <u>Hao Zhou</u>, Xiaohan Zhang, Yaowen Zheng, Xian Zhan, Xiaofei Xie, Xiapu Luo, Xinghua Li, Yang Liu, Sheikh Mahbub Habib  
-  32nd USENIX Security Symposium (**USENIX Security**), 2023
+  32nd USENIX Security Symposium (**USENIX SEC**), 2023
 - **Uncovering Intent based Leak of Sensitive Data in Android Framework**  
   [[paper]](/files/LeakDetector.pdf) 
   [[artifacts]](https://github.com/moonZHH/LeakDetector)  
@@ -45,7 +45,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   [[paper]](https://www.usenix.org/conference/usenixsecurity22/presentation/li-jianfeng) 
   [[artifacts]](https://github.com/jflixjtu/FOAP)  
   Jianfeng Li, <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma  
-  31st USENIX Security Symposium (**USENIX Security**), 2022
+  31st USENIX Security Symposium (**USENIX SEC**), 2022
 - **NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps**  
   [[paper]](/files/NCScope.pdf) 
   [[artifacts]](https://doi.org/10.5281/zenodo.6534524) 
