@@ -13,7 +13,7 @@ redirect_from:
   The Hong Kong Polytechnic University  
   QT405, Chow Yei Ching Building, PolyU  
   Hung Hom, Kowloon, Hong Kong SAR, China
-- E-mail: hcnzhou (at) polyu.edu.hk, cshaoz (at) comp.polyu.edu.hk, sunmoonsky0001 (at) gmail.com
+- E-mail: hcnzhou (at) polyu.edu.hk, sunmoonsky0001 (at) gmail.com, ~~cshaoz (at) comp.polyu.edu.hk~~
 
 ## Biography
 Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications (NJUPT), advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Operating Systems Security, Malware Analysis, Program Analysis, and Blockchain with papers published in top-tier venues (e.g., CCS, NDSS, S&P, USENIX SEC, ASE, ISSTA, INFOCOM, WWW, TIFS, TSE). His ISSTA'22 paper received the ACM SIGSOFT Distinguished Paper Award. His research uncovered many severe vulnerabilities in mobile systems with 20 CVEs assigned.
