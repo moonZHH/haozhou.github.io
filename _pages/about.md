@@ -11,7 +11,7 @@ redirect_from:
 - Research Assistant Professor
 - Department of Computing (COMP)  
   The Hong Kong Polytechnic University  
-  QT405, Chow Yei Ching Building, PolyU  
+  PQ813, Mong Man Wai Building, PolyU  
   Hung Hom, Kowloon, Hong Kong SAR, China
 - E-mail: hcnzhou (at) polyu.edu.hk, sunmoonsky0001 (at) gmail.com, ~~cshaoz (at) comp.polyu.edu.hk~~
 
