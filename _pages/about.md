@@ -33,7 +33,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - **Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack**  
   [[paper]](https://moonzhh.github.io/404.html) 
   [[artifacts]](https://moonzhh.github.io/404.html)  
-  <u>Hao Zhou</u>, Shuohan Wu, Chenxiong Qian, Xiapu Luo, Haipeng Cai, Chao Zhang  
+  <u>Hao Zhou</u><sup>*</sup>, Shuohan Wu<sup>*</sup>, Chenxiong Qian, Xiapu Luo, Haipeng Cai, Chao Zhang  
   31st Network and Distributed Systems Security Symposium (**NDSS**), 2024
 - **WADIFF: A Differential Testing Framework for WebAssembly Runtimes**  
   [[paper]](https://moonzhh.github.io/404.html) 
