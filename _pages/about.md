@@ -36,8 +36,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   <u>Hao Zhou</u><sup>*</sup>, Shuohan Wu<sup>*</sup>(co-first authors), Chenxiong Qian, Xiapu Luo, Haipeng Cai, Chao Zhang  
   31st Network and Distributed Systems Security Symposium (**NDSS**), 2024
 - **WADIFF: A Differential Testing Framework for WebAssembly Runtimes**  
-  [[paper]](https://moonzhh.github.io/404.html) 
-  [[artifacts]](https://moonzhh.github.io/404.html)  
+  [[paper]](https://doi.ieeecomputersociety.org/10.1109/ASE56229.2023.00188)  
   Shiyao Zhou, Muhui Jiang, Weimin Chen, <u>Hao Zhou</u>, Haoyu Wang, Xiapu Luo  
   38th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2023
 - **CydiOS: A Model-based Testing Framework for iOS Apps**  
