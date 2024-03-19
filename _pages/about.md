@@ -31,7 +31,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack**  
-  [[paper]](https://moonzhh.github.io/404.html) 
+  [[paper]](/files/OverlayChecker.pdf) 
   [[artifacts]](https://moonzhh.github.io/404.html)  
   <u>Hao Zhou</u><sup>*</sup>, Shuohan Wu<sup>*</sup>(co-first authors), Chenxiong Qian, Xiapu Luo, Haipeng Cai, Chao Zhang  
   31st Network and Distributed Systems Security Symposium (**NDSS**), 2024
