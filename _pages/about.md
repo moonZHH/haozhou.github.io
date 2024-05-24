@@ -140,6 +140,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 
 ## Services
 - **Technical Program Committee Member**  
+  2025: [ISSTA](https://conf.researchr.org/home/issta-2025)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
 - **Artifacts Evaluation Committee Member**  
   2022: [ACSAC](https://www.acsac.org/2022)  
