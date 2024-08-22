@@ -140,13 +140,14 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 
 ## Services
 - **Technical Program Committee Member**  
-  2025: [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
+  2025: [AsiaCCS](https://asiaccs2025.hust.edu.vn/), [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
 - **Artifacts Evaluation Committee Member**  
   2022: [ACSAC](https://www.acsac.org/2022)  
   2020: [ACSAC](https://www.acsac.org/2020)
 - **Conference Reviewer**  
-  2024: [WWW](https://www2024.thewebconf.org/)  
+  2025: [WWW](https://www2025.thewebconf.org/)  
+  2024: [WWW](https://www2024.thewebconf.org/)
 - **Journal Reviewer**  
   [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq)  
   [Artificial Intelligence Review (AIRE)](https://www.springer.com/journal/10462)
