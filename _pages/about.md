@@ -30,6 +30,11 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients**
+  [[paper]](https://moonzhh.github.io/404.html) 
+  [[artifacts]](https://moonzhh.github.io/404.html)  
+  Shuohan Wu, Zihao Li, Hao Zhou, Xiapu Luo, Jianfeng Li, Haoyu Wang  
+  33rd International Symposium on Software Testing and Analysis (**ISSTA**), 2024
 - **Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack**  
   [[paper]](/files/OverlayChecker.pdf) 
   [[artifacts]](https://moonzhh.github.io/404.html)  
