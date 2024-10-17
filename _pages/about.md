@@ -30,7 +30,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
-- **DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back**
+- **DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back**  
   [[paper]](https://moonzhh.github.io/404.html) 
   [[ACM SIGSAC Distinguished Paper Award]](https://www.sigsac.org/ccs/CCS2024/program/awards.html)  
   Zhiyuan Sun, Zihao Li, Xinghao Peng, Xiapu Luo, Muhui Jiang, Hao Zhou, Yinqian Zhang  
