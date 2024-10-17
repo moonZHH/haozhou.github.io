@@ -81,8 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Hao Zhou"
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
   # avatar           : "photo.jpeg"
+  avatar           : "Dr ZHOU Hao.jpg"
   bio              : "RAP, COMP, PolyU"
   location         : 
   employer         :
