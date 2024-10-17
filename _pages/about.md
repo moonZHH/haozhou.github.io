@@ -30,7 +30,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
-- **MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs**
+- **MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs**  
   [[paper]](https://moonzhh.github.io/404.html)  
   Yin Wang, Ming Fan, <u>Hao Zhou</u>, Haijun Wang, Wuxia Jin, Jiajia Li, Wenbo Chen, Shijie Li, Yu Zhang, Deqiang Han, Ting Liu  
   39th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2024
@@ -148,6 +148,7 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
 
 ## Awards
+- **ACM SIGSAC Distinguished Paper Award** at CCS'24
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
 
 ## Services
