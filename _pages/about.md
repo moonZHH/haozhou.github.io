@@ -30,14 +30,17 @@ Hao received the Ph.D. degree in Department of Computing at the Hong Kong Polyte
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
-- **Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients**  
+- **DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back**
   [[paper]](https://moonzhh.github.io/404.html) 
-  [[artifacts]](https://moonzhh.github.io/404.html)  
+  [[ACM SIGSAC Distinguished Paper Award]](https://www.sigsac.org/ccs/CCS2024/program/awards.html)  
+  Zhiyuan Sun, Zihao Li, Xinghao Peng, Xiapu Luo, Muhui Jiang, Hao Zhou, Yinqian Zhang  
+  31st ACM Conference on Computer and Communications Security (**CCS**), 2024
+- **Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients**  
+  [[paper]](https://doi.org/10.1145/3650212.3680372)  
   Shuohan Wu, Zihao Li, <u>Hao Zhou</u>, Xiapu Luo, Jianfeng Li, Haoyu Wang  
   33rd International Symposium on Software Testing and Analysis (**ISSTA**), 2024
 - **Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack**  
-  [[paper]](/files/OverlayChecker.pdf) 
-  [[artifacts]](https://moonzhh.github.io/404.html)  
+  [[paper]](/files/OverlayChecker.pdf)  
   <u>Hao Zhou</u><sup>*</sup>, Shuohan Wu<sup>*</sup>(co-first authors), Chenxiong Qian, Xiapu Luo, Haipeng Cai, Chao Zhang  
   31st Network and Distributed Systems Security Symposium (**NDSS**), 2024
 - **WADIFF: A Differential Testing Framework for WebAssembly Runtimes**  
