@@ -164,7 +164,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   2024: [WWW](https://www2024.thewebconf.org/)
 - **Journal Reviewer**  
   [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq)  
-  [Artificial Intelligence Review (AIRE)](https://www.springer.com/journal/10462)
+  [Information and Software Technology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology)
 
 ## Teaching Experience
 - Object-oriented Programming (COMP2021), Teaching Assistant
