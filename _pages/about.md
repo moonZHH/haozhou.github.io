@@ -31,7 +31,8 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs**  
-  [[paper]](https://moonzhh.github.io/404.html)  
+  [[paper]](https://dl.acm.org/doi/10.1145/3691620.3695534)
+  [[ACM SIGSOFT Distinguished Paper Award]](https://conf.researchr.org/info/ase-2024/awards)  
   Yin Wang, Ming Fan, <u>Hao Zhou</u>, Haijun Wang, Wuxia Jin, Jiajia Li, Wenbo Chen, Shijie Li, Yu Zhang, Deqiang Han, Ting Liu  
   39th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2024
 - **DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back**  
@@ -149,6 +150,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
 
 ## Awards
+- **ACM SIGSOFT Distinguished Paper Award** at ASE'24
 - **ACM SIGSAC Distinguished Paper Award** at CCS'24
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
 
