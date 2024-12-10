@@ -198,4 +198,4 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [CVE-2022-33729](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-33729), 
   [CVE-2022-36868](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-36868) 
 - Vivo OriginOS  
-- Several low-severity vulnerabilities in Google Android, Honor MagicUI, Samsung OneUI, Xiaomi MIUI, and Meizu FlymeOS.
+- Several low-severity vulnerabilities in Xiaomi MIUI and Meizu FlymeOS.
