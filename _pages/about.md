@@ -30,6 +30,10 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **Automatic Library Fuzzing through API Relation Evolvement**  
+  [[paper]](https://github.com/moonZHH/404.md)  
+  Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, Changhua Luo, <u>Hao Zhou</u>, Chenxiong Qian  
+  32nd Network and Distributed Systems Security Symposium (**NDSS**), 2025
 - **MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs**  
   [[paper]](https://dl.acm.org/doi/10.1145/3691620.3695534)
   [[ACM SIGSOFT Distinguished Paper Award]](/files/MiniChecker-Award.jpg)  
