@@ -170,6 +170,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   2024: [WWW](https://www2024.thewebconf.org/)
 - **Journal Reviewer**  
   [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq)  
+  [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/csdl/journal/ts)  
   [Information and Software Technology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology)
 
 ## Teaching Experience
